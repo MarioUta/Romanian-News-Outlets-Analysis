@@ -50,7 +50,7 @@ crize
 deficit
 împrumut
 imprumut
-#conflit/tragedie
+#conflict/tragedie
 război
 razboi
 refugiat
@@ -85,7 +85,6 @@ rusilor
 rusesc
 rusesti
 rusești
-israel
 crimea
 gaza
 donbas
