@@ -7,7 +7,7 @@
 !DISCLAIMER!
 
 
-The report is found in the ReportRO.ipynb and ReportRO.PDF files. The recommended one is the .ipynb as the PDF file is having slight formatting issues, being added for convenience purposes only
+The report is found in the ReportRO.ipynb and ReportRO.PDF files. The recommended one is the .ipynb as the PDF file has slight formatting issues, being added for convenience purposes only
 
 
 This project is made for educational purposes only and does not attempt to harm in any way any of the news outlets featured in the report.
